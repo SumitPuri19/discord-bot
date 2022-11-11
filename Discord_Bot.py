@@ -160,4 +160,4 @@ async def stop(ctx):
     await ctx.send("**The bot has left the voice channel ❗❗❗ **")
 
 # this contains the bot token.
-client.run('MTAxODgzNjk2ODg5OTEwMDcwMw.GlnigK.MuKUipZhlMpoDZnXDgjC9-ayWbpgdDHyBE-DBM')
+client.run('Enter Your Bot Token')
